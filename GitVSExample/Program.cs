@@ -11,6 +11,7 @@ namespace GitVSExample
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+            Console.WriteLine("Nicks functionality finished");
             Console.ReadLine();
         }
     }
